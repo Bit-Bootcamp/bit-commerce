@@ -13,6 +13,6 @@ A repo that holds capstone projects for Bit Bootcamp participants
  Ara [eCommerce](https://github.com/YouCanCallMeAra/eCommerce)\
  Chenar [eCommerce](https://github.com/chenar-farhad/myProject/tree/master)\
  Shoxan [eCommerce](https://github.com/shoxosman/reactproject.git)\
- Syar [eCommerce](https://github.com/syar1122/react-ecommerce-last)
+ Syar [eCommerce](https://github.com/syar1122/react-ecommerce-last)\
  Lawen [eCommerce](https://github.com/lawen-coder/E-Commerce)\
  Skala [eCali](https://github.com/salimhamad/e-cali)
